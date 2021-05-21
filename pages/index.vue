@@ -24,7 +24,6 @@
         top
       rounded="pill"
       centered
-    
     >
       {{ errorShow.text }}
     </v-snackbar> 
